@@ -4,7 +4,7 @@ Public website source for Surecomply Services: website setup, document formattin
 
 ## Status
 
-Website content is prepared for owner review. A business address and confirmation of the proposed services and policies are still required before this is ready for a Razorpay website review. Creating or publishing this website does not establish Razorpay approval.
+The website includes owner-provided contact details and a confirmed business address. The owner should review the proposed services and customer policies before submitting it to Razorpay. Creating or publishing this website does not establish Razorpay approval.
 
 ## Pages
 
